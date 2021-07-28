@@ -26,4 +26,5 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=devwelljr&show_icons=true&theme=radical" />
   <div/>
+    <p>Credits: <a href="https://github.com/ABSphreak">ABSphreak</a></p>
 <div/>
