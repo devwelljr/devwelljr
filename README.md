@@ -7,19 +7,19 @@
     I'm a Brazilian Web Development Student at <a href="https://github.com/betrybe"><b>Trybe</b></a>.
     Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
   <p/>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Wel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Wel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Wel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
   <p align="center">
     Ask me anything <a href="mailto:junior.wel02@gmail.com"><b>email</b></a>
   <p />
   <p align="center"><i>Happy Coding!</i> 
     <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"><img class="emoji" alt="blush" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"></g-emoji>
   </p>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Wel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Wel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Wel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Wel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Wel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
   
   <br />
   <hr />
