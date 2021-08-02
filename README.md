@@ -13,7 +13,11 @@
   <p align="center"><i>Happy Coding!</i> 
     <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"><img class="emoji" alt="blush" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"></g-emoji>
   </p>
-  <div style="display: inline_block"><br>
+  
+  <br />
+  <hr />
+  
+  <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Wel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Wel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Wel-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
@@ -21,10 +25,7 @@
     <img align="center" alt="Wel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
     <img align="center" alt="Wel-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  </div>
-  
-  <br />
-  <hr />
+ </div>
   
   <p align="center"><i>Follow me around the web:</i><br></p>
   
