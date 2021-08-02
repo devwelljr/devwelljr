@@ -1,12 +1,19 @@
 <div>
   <div align="center">
-    <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+    <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 </>!</h2>
   </div>
   <p align="center"> 
     Welcome! You discovered my Github profile.
     I'm a Brazilian Web Development Student at <a href="https://github.com/betrybe"><b>Trybe</b></a>.
     Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
   <p/>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Wel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Wel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Wel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
   <p align="center">
     Ask me anything <a href="mailto:junior.wel02@gmail.com"><b>email</b></a>
   <p />
