@@ -10,7 +10,7 @@
   <p align="center">
     Ask me anything <a href="mailto:junior.wel02@gmail.com"><b>email</b></a>
   <p />
-  <p align="center"><i>Happy Coding!</i> 
+  <p align="center"><i>Happy Day!</i> 
     <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"><img class="emoji" alt="blush" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"></g-emoji>
   </p>
   
