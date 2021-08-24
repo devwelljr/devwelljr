@@ -45,6 +45,6 @@
   <br />
   <hr />
     
-    <p>Credits: <a href="https://github.com/ABSphreak">ABSphreak</a></p>
+    <p>Credits:<a href="https://github.com/ABSphreak">ABSphreak</a></p>
     
 <div/>
