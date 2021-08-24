@@ -42,7 +42,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwelljr&layout=compact&langs_count=7&theme=radical"/>
   <div/>
     
-    <hr />
+  <br />
+  <hr />
     
     <p>Credits: <a href="https://github.com/ABSphreak">ABSphreak</a></p>
     
