@@ -7,6 +7,7 @@
     Welcome! You discovered my Github profile.
     I'm a Brazilian Web Development Student at <a href="https://github.com/betrybe"><b>Trybe</b></a>.
     Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+    I’m currently learning My SQL, MongoDB and NodeJS.
   <p/>
   
   <p align="center">
