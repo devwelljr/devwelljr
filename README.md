@@ -22,6 +22,7 @@
   <hr />
   
   <div style="display: inline_block" align="center"><br>
+    <h2>Front End</h2>
     <img align="center" alt="Wel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Wel-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Wel-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
@@ -32,6 +33,7 @@
  </div>
   
   <div style="display: inline_block" align="center"><br>
+    <h2>Back End</h2>
     <a href="https://nodejs.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     </a>
