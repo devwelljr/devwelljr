@@ -18,8 +18,6 @@
     <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"><img class="emoji" alt="blush" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"></g-emoji>
   </p>
   
-  <br />
-  
   <div style="display: inline_block" align="center"><br>
     <h2>Front End</h2>
     <img align="center" alt="Wel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
