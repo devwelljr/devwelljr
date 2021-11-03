@@ -19,7 +19,6 @@
   </p>
   
   <br />
-  <hr />
   
   <div style="display: inline_block" align="center"><br>
     <h2>Front End</h2>
