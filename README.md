@@ -36,7 +36,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Wel-express" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Wel-mongodb" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Wel-mysql" width="40" height="40" />
-  </div>
+  </div><br>
   
   <p align="center"><i>Follow me around the web:</i><br></p>
   
