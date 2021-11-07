@@ -8,7 +8,7 @@
     I'm a Brazilian Web Development Student at <a href="https://github.com/betrybe"><b>Trybe</b></a>.
     Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
     I’m currently learning NodeJS.
-    My Portfolio: <a src="https://devwelljr.github.io/portfolio/">Wellington Gregorio</a>
+    My Portfolio: <a href="https://devwelljr.github.io/portfolio/">Wellington Gregorio</a>
   <p/>
   
   <p align="center">
