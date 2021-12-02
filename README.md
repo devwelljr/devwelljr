@@ -32,10 +32,10 @@
   
   <div style="display: inline_block" align="center"><br>
     <h2>Back End</h2>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Wel-nodejs" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Wel-express" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Wel-mongodb" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Wel-mysql" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Wel-nodejs" width="60" height="60" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Wel-express" width="60" height="60" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Wel-mongodb" width="60" height="60" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Wel-mysql" width="60" height="60" />
   </div><br>
   
   <p align="center"><i>Follow me around the web:</i><br></p>
