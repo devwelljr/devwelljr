@@ -28,6 +28,8 @@
     <img align="center" alt="Wel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wel-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
     <img align="center" alt="Wel-Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    <img align="center" alt="Wel-Bootstrap" height="40" width="40"       src="https://cdn.iconicons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png">
+   
  </div>
   
   <div style="display: inline_block" align="center"><br>
