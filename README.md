@@ -37,7 +37,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Wel-express" width="60" height="60" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Wel-mongodb" width="60" height="60" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Wel-mysql" width="60" height="60" /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Wel-ruby" width="60" height="60" />        
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Wel-ruby" width="60" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="Wel-postgreesql" width="60" height="60" />
   </div><br>
   
   <p align="center"><i>Follow me around the web:</i><br></p>
