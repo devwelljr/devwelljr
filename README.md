@@ -7,7 +7,7 @@
     Welcome! You discovered my Github profile.
     I'm a Brazilian Web Development.
     Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-    I’m currently learning Ruby on Rails.
+    I’m currently learning Mechanize and nokogiri.
     My Portfolio: <a href="https://devwelljr.github.io/portfolio/">Wellington Gregorio</a>
   <p/>
   
